@@ -5,4 +5,4 @@ langchain-experimental
 langchain-ollama
 tabulate
 numpy
-sklearn
+scikit-learn
